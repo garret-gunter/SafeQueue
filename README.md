@@ -1,5 +1,7 @@
 ## SafeQueue
 
+This is a fork of SafeQueue originally created by [maxbrokman](https://github.com/maxbrokman).  This is updated for Laravel 6.0.
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/maxbrokman/safe-queue.svg)](https://packagist.org/packages/maxbrokman/safe-queue)
 [![Build Status](https://travis-ci.org/maxbrokman/SafeQueue.svg?branch=0.3)](https://travis-ci.org/maxbrokman/SafeQueue)
 [![Coverage Status](https://coveralls.io/repos/github/maxbrokman/SafeQueue/badge.svg?branch=0.3)](https://coveralls.io/github/maxbrokman/SafeQueue?branch=0.2)
